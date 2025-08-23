@@ -84,3 +84,6 @@ Feel free to check out my links above and connect with me! I'm always open to co
   <a href="https://x.com/axceldesigns"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x" alt="x"></a>
 </p>
 
+<img src="https://raw.githubusercontent.com/axcel-designs/axcel-designs/output/snake.svg" alt="Snake animation" />
+
+###
