@@ -43,12 +43,12 @@ Hi! I’m **ACHA K. EXCEL**
 
 ---
 
-<!-- ## 🌟 Featured Projects
+## 🌟 Featured Projects
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| **Project One** | Cool project description here | [Repo](https://github.com/yourusername/project1) |
-| **Project Two** | Another project you’re proud of | [Repo](https://github.com/yourusername/project2) | -->
+ | **Project One** | Mastering frontEnd | [Repo](https://github.com/Axcel-Designs/REACT_tasks) |
+<!-- | **Project Two** | Another project you’re proud of | [Repo](https://github.com/yourusername/project2) | --> 
 
 ---
 
