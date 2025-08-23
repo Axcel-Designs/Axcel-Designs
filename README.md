@@ -54,7 +54,7 @@ Hi! I’m **ACHA K. EXCEL**
 ## ✨ Fun Facts
 
 - 🧩 I love solving puzzles and brain teasers.
-- ☕ Football enthusiast.
+- ⚽ Football enthusiast.
 - 🎨 Design is my second language.
 
 ---
