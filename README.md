@@ -15,7 +15,7 @@
 
 Hi! I’m **ACHA K. EXCEL**  
 🌍 Based in: **Nigeria**  
-💼 Currently: **Software Developer/FrontEnd Developer**  
+💼 Currently: **Software Developer | FrontEnd Developer**  
 🧑‍🎨 Passionate about: **Design, Coding, Open Source, etc.**
 
 ---
