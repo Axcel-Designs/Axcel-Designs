@@ -1,4 +1,3 @@
-# Hi, I'm EXCEL 👋
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e57e0,100:22d3ee&height=150&section=header&text=Hi%20there!%20I'm%20EXCEL%20👋&fontSize=32&fontColor=ffffff" alt="header"/>
