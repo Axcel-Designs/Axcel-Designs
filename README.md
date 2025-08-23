@@ -43,19 +43,19 @@ Hi! I’m **ACHA K. EXCEL**
 
 ---
 
-## 🌟 Featured Projects
+<!-- ## 🌟 Featured Projects
 
 | Project | Description | Links |
 |---------|-------------|-------|
 | **Project One** | Cool project description here | [Repo](https://github.com/yourusername/project1) |
-| **Project Two** | Another project you’re proud of | [Repo](https://github.com/yourusername/project2) |
+| **Project Two** | Another project you’re proud of | [Repo](https://github.com/yourusername/project2) | -->
 
 ---
 
 ## ✨ Fun Facts
 
 - 🧩 I love solving puzzles and brain teasers.
-- ☕ Fueled by coffee and creativity.
+- ☕ Football enthusiast.
 - 🎨 Design is my second language.
 
 ---
