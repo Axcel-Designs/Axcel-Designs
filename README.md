@@ -44,10 +44,13 @@ Hi! I’m **ACHA K. EXCEL**
 
 ## 🌟 Featured Projects
 
-| Project | Description | Links |
-|---------|-------------|-------|
- | **Project One** | Mastering Front-End | [Repo](https://github.com/Axcel-Designs/REACT_tasks) |
-| **Project Two** | Mastering TypeScript | [Repo](https://github.com/Axcel-Designs/typescript)|
+ | Project | Description | Links | Technologies |
+|---------|-------------|-------|--------------|
+| **Projects One** | Mastering Front-End | [Repo](https://github.com/Axcel-Designs/REACT_tasks) | JavaScript, HTML, CSS, Tailwind, React, Next.js, Firebase, Redux, Formik-Yup, React Router DOM |
+| **Projects Two** | Mastering TypeScript | [Repo](https://github.com/Axcel-Designs/typescript) | TypeScript, Tailwind, React Router DOM |
+| **minn Project One** | Leaderboards | [Repo](https://axcel-designs.github.io/leaderboard/) | JavaScript, HTML, CSS |
+| **mini Project Two** | World Countries Data | [Repo](https://github.com/Axcel-Designs/worldCountriesData) | JavaScript, HTML, CSS |
+| **mini Project Three** | Solar System | [Repo](https://github.com/Axcel-Designs/solarSystem) | JavaScript, HTML, CSS |
 
 ---
 
