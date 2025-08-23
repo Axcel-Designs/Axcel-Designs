@@ -48,7 +48,8 @@ Hi! I’m **ACHA K. EXCEL**
 | Project | Description | Links |
 |---------|-------------|-------|
  | **Project One** | Mastering frontEnd | [Repo](https://github.com/Axcel-Designs/REACT_tasks) |
-<!-- | **Project Two** | Another project you’re proud of | [Repo](https://github.com/yourusername/project2) | -->
+| **Project Two** | Mastering TypeScript | [Repo](https://github.com/Axcel-Designs/typescript)|
+
 ---
 
 ## ✨ Fun Facts
