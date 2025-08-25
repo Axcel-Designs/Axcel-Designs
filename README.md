@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://github.com/Axcel-Designs"><img src="https://img.shields.io/github/followers/Axcel-Designs?label=Follow&style=social" alt="GitHub badge"></a>
   <a href="https://linkedin.com/in/excel-acha"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn badge"></a>
-  <a href="mailto:axceldesigns.gmail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email badge"></a>
+  <a href="mailto:axceldesigns@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email badge"></a>
 </p>
 
 ---
@@ -102,7 +102,7 @@ Feel free to check out my links above and connect with me! I'm always open to co
 
 <p align="center">
   <a href="https://linkedin.com/in/excel-acha"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:axceldesigns.gmail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:axceldesigns@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://x.com/axceldesigns"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x" alt="x"></a>
 </p>
 
