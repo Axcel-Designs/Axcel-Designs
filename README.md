@@ -68,8 +68,9 @@ Hi! I’m **ACHA K. EXCEL**
 
  | Project | Description | Links | Technologies |
 |---------|-------------|-------|--------------|
-| **Projects One** | Mastering Front-End | [Repo](https://github.com/Axcel-Designs/REACT_tasks) | JavaScript, HTML, CSS, Tailwind, React, Next.js, Firebase, Redux, Formik-Yup, React Router DOM |
-| **Projects Two** | Mastering TypeScript | [Repo](https://github.com/Axcel-Designs/typescript) | TypeScript, Tailwind, React Router DOM |
+| **CleanCity+** | a Next.js (React) App Router web app that educates users on waste categories and helps them log, track, and visualize their recycling efforts. | [Repo](https://github.com/Axcel-Designs/REACT_tasks) | JavaScript, Tailwind, React, Next.js,React-Boostrap,Boostrap   |
+| **Projects Two** | Mastering Front-End | [Repo](https://github.com/Axcel-Designs/REACT_tasks) | JavaScript, HTML, CSS, Tailwind, React, Next.js, Firebase, Redux, Formik-Yup, React Router DOM |
+| **Projects Three** | Mastering TypeScript | [Repo](https://github.com/Axcel-Designs/typescript) | TypeScript, Tailwind, React Router DOM |
 | **minn Project One** | Leaderboards | [Repo](https://axcel-designs.github.io/leaderboard/) | JavaScript, HTML, CSS |
 | **mini Project Two** | World Countries Data | [Repo](https://github.com/Axcel-Designs/worldCountriesData) | JavaScript, HTML, CSS |
 | **mini Project Three** | Solar System | [Repo](https://github.com/Axcel-Designs/solarSystem) | JavaScript, HTML, CSS |
