@@ -31,7 +31,9 @@ Hi! I’m **ACHA K. EXCEL**
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=fff)
+![Mongoose](https://img.shields.io/badge/-Mongoose-000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-011?style=for-the-badge&logo=nextdotjs&logoColor=fff)
+
 <!-- ![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff) -->
 
 <!-- <div align="left">
@@ -53,7 +55,7 @@ Hi! I’m **ACHA K. EXCEL**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwind logo"  />
 
   </br>
-</div> -->
+</div> 
 
 <details>
 <summary>More Skills</summary>
