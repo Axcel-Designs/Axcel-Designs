@@ -16,7 +16,7 @@
 Hi! I'm **ACHA K. EXCEL**  
 🌍 Based in: **WorldWide/Remote**  
 💼 Currently: **Full Stack Developer | Frontend & Backend Developer**  
-🧑‍🎨 Passionate about: **Coding, Open Source, Web Development**
+🧑‍🎨 Passionate about: **Coding, Open Source,Software Development, Web Development**
 
 🌐 **Live Portfolio:** [excelportfolio.vercel.app](https://excelportfolio.vercel.app/)
 
