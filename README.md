@@ -14,7 +14,7 @@
 ## 👨‍💻 About Me
 
 Hi! I'm **ACHA K. EXCEL**  
-<!-- 🌍 Based in: **Nigeria**   -->
+🌍 Based in: **WorldWide/Remote**  
 💼 Currently: **Full Stack Developer | Frontend & Backend Developer**  
 🧑‍🎨 Passionate about: **Coding, Open Source, Web Development**
 
