@@ -16,7 +16,7 @@
 Hi! I'm **ACHA K. EXCEL**  
 🌍 Based in: **WorldWide/Remote**  
 💼 Currently: **Full Stack Developer | Frontend & Backend Developer**  
-🧑‍🎨 Passionate about: **Coding, Open Source,Software Development, Web Development**
+🧑‍🎨 Passionate about: **Software Development, Web Development**
 
 🌐 **Live Portfolio:** [excelportfolio.vercel.app](https://excelportfolio.vercel.app/)
 
@@ -80,8 +80,8 @@ Hi! I'm **ACHA K. EXCEL**
 
  | Project | Description | Links | Technologies |
 |---------|-------------|-------|--------------|
-| **Agriyield+** |web app that empowers farmers, cooperatives, and stakeholders with actionable insights. | [Repo](https://github.com/AgriYieldAshinity/Frontend-web) | TypeScript, Tailwind, React, Backend Integration |
-| **CleanCity+** | a Next.js (React) App Router web app that educates users on waste categories and helps them log, track, and visualize their recycling efforts. | [Repo](https://github.com/Axcel-Designs/CleanCity-Plus) | React, Next.js, Node.js, MongoDB |
+| **Agriyield+** |web app that empowers farmers, cooperatives, and stakeholders with actionable insights. | [Repo](https://github.com/AgriYieldAshinity/Frontend-web) | TypeScript, Tailwind, React, MongoDB, Backend Integration |
+| **CleanCity+** | a Next.js (React) App Router web app that educates users on waste categories and helps them log, track, and visualize their recycling efforts. | [Repo](https://github.com/Axcel-Designs/CleanCity-Plus) | React, Next.js, Node.js, Local Storage |
 | **Projects Two** | Mastering Front-End | [Repo](https://github.com/Axcel-Designs/REACT_tasks) | JavaScript, HTML, CSS, Tailwind, React, Next.js, Firebase, Redux, Formik-Yup, React Router DOM |
 | **Projects Three** | Mastering TypeScript | [Repo](https://github.com/Axcel-Designs/typescript) | TypeScript, Tailwind, React Router DOM |
 | **mini Project One** | Leaderboards | [Repo](https://axcel-designs.github.io/leaderboard/) | JavaScript, HTML, CSS |
