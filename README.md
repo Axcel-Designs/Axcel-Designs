@@ -15,20 +15,19 @@
 
 Hi! I'm **ACHA K. EXCEL**  
 🌍 Based in: **Remote / Worldwide**  
-💼 Currently: **Full Stack Developer | Frontend & Backend Developer**  
-🧑‍🎨 Passionate about: **Software Development, Web Development**
+💼 Currently: **Full Stack Developer**  
+🧑‍🎨 Passionate about: **Building high-quality web products and modern backend systems**
 
-I build responsive web applications, APIs, and full-stack backend systems that help businesses deliver better online experiences. I am targeting roles in frontend, backend, and full-stack development, and I am open to remote, freelance, and full-time
-opportunities.
+I deliver polished web applications, scalable APIs, and full-stack solutions that help teams move faster and create better digital experiences. I enjoy solving real product problems with clean code, strong engineering practices, and thoughtful user interfaces.
 
 🌐 **Live Portfolio:** [excelportfolio.vercel.app](https://excelportfolio.vercel.app/)
 
-## 💼 Open to opportunities in
+## 💼 Open to opportunities
 
-- Remote web development roles worldwide
-- Frontend, backend, and full-stack engineering
-- API, backend, and cloud-connected services
-- Freelance, contract, and full-time work
+- Remote, contract, and full-time roles in web engineering
+- Frontend, backend, and full-stack development teams
+- API development, cloud-connected services, and product-driven platforms
+- Collaborative environments where I can contribute to growth and quality
 
 ## ✨ Skills
 
@@ -121,8 +120,6 @@ opportunities.
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=axcel-designs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula" alt="GitHub Stats" height="150"/>
-   <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=Axcel-Designs&theme=tokyonight" height="135"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=axcel-designs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150"/>  -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=axcel-designs&locale=en&hide_title=false&layout=compact&card_width=320&theme=dracula&hide_border=false" height="150" alt="Languages"/>
 </p>
 
