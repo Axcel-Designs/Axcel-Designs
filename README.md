@@ -14,11 +14,29 @@
 ## 👨‍💻 About Me
 
 Hi! I'm **ACHA K. EXCEL**  
-🌍 Based in: **WorldWide/Remote**  
+🌍 Based in: **Remote / Worldwide**  
 💼 Currently: **Full Stack Developer | Frontend & Backend Developer**  
 🧑‍🎨 Passionate about: **Software Development, Web Development**
 
+I build responsive web applications, APIs, and full-stack backend systems that help businesses deliver better online experiences. I am targeting roles in frontend, backend, and full-stack development, and I am open to remote, freelance, and full-time
+opportunities.
+
 🌐 **Live Portfolio:** [excelportfolio.vercel.app](https://excelportfolio.vercel.app/)
+
+## 💼 Open to opportunities in
+
+- Remote web development roles worldwide
+- Frontend, backend, and full-stack engineering
+- API, backend, and cloud-connected services
+- Freelance, contract, and full-time work
+
+## ✨ Skills
+
+- Frontend: HTML, CSS, JavaScript, React, Next.js, TypeScript
+- Backend: Node.js, Express, Mongoose, MongoDB, PostgreSQL, TypeORM, Nest.js
+- UI: Tailwind CSS, responsive design, component-driven layout
+- APIs & tools: RESTful APIs, Postman, Git, GitHub, Vercel
+- AI tooling: GitHub Copilot, ChatGPT, prompt-driven development
 
 ---
 
@@ -45,33 +63,12 @@ Hi! I'm **ACHA K. EXCEL**
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)
 ![TypeORM](https://img.shields.io/badge/-TypeORM-3178C6?style=for-the-badge&logo=typeorm&logoColor=fff)
 
-<!-- <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwind logo" />
-  </br>
-</div> -->
-
 <details>
 <summary>More Skills</summary>
 
 <!-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff) -->
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-<!-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff) -->
 
 </details>
 
@@ -81,14 +78,14 @@ Hi! I'm **ACHA K. EXCEL**
 
  | Project | Description | Links | Technologies |
 | --------- | ------------- | ------- | -------------- |
-| **VaultPass API** | Authentication, Authorization & Secure API Design with Node.Stack Requirements | [Docs](https://documenter.getpostman.com/view/46204053/2sBXwpNWfA) \| [Repo](https://github.com/Axcel-Designs/BackEnd-Tech/tree/main/project_04_capstone) | Node.js, Express.js, MongoDB + Mongoose, Bcrypt, Morgan |
-| **Agriyield+** | web app that empowers farmers, cooperatives, and stakeholders with actionable insights. | [Live](https://agriyield-web.vercel.app/) \| [Repo](https://github.com/AgriYieldAshinity/Frontend-web) | TypeScript, Tailwind, React, MongoDB, Backend Integration |
-| **CleanCity+** | a Next.js (React) App Router web app that educates users on waste categories and helps them log, track, and visualize their recycling efforts. | [Live](https://cleancity-plus.vercel.app/) \| [Repo](https://github.com/Axcel-Designs/CleanCity-Plus) | React, Next.js, Node.js, Local Storage |
-| **Projects Two** | Mastering Front-End | [Repo](https://github.com/Axcel-Designs/REACT_tasks) | JavaScript, HTML, CSS, Tailwind, React, Next.js, Firebase, Redux, Formik-Yup, React Router DOM |
-| **Projects Three** | Mastering TypeScript | [Repo](https://github.com/Axcel-Designs/typescript) | TypeScript, Tailwind, React Router DOM |
-| **mini Project One** | Leaderboards | [Live](https://axcel-designs.github.io/leaderboard/) \| [Repo](https://github.com/Axcel-Designs/leaderboard) | JavaScript, HTML, CSS |
-| **mini Project Two** | World Countries Data | [Live](https://axcel-designs.github.io/worldCountriesData/) \| [Repo](https://github.com/Axcel-Designs/worldCountriesData) | JavaScript, HTML, CSS |
-| **mini Project Three** | Solar System | [Live](https://axcel-designs.github.io/solarSystem/) \| [Repo](https://github.com/Axcel-Designs/solarSystem) | JavaScript, HTML, CSS |
+| **VaultPass API** | Secure authentication and authorization API with user management and protected endpoints. | [Docs](https://documenter.getpostman.com/view/46204053/2sBXwpNWfA) \| [Repo](https://github.com/Axcel-Designs/BackEnd-Tech/tree/main/project_04_capstone) | Node.js, Express, MongoDB, Mongoose, Bcrypt, Morgan |
+| **Agriyield+** | Farmer-focused web app for collecting and analyzing agricultural yield data with dashboard reports. | [Live](https://agriyield-web.vercel.app/) \| [Repo](https://github.com/AgriYieldAshinity/Frontend-web) | React, TypeScript, Tailwind, FastAPI, MongoDB |
+| **CleanCity+** | Next.js app for logging recycling activity, tracking progress, and visualizing waste categories. | [Live](https://cleancity-plus.vercel.app/) \| [Repo](https://github.com/Axcel-Designs/CleanCity-Plus) | Next.js, Tailwind, Recharts, Local Storage |
+| **Git Repo Checker** | Developer tool that shows GitHub repo status, commits, and project metrics through API integration. | [Live](https://git-repo-checker.vercel.app/) \| [Repo](https://github.com/Axcel-Designs/GitRepo-checker) | JavaScript, HTML, CSS, GitHub API |
+| **E-commerce React Store** | React storefront with Redux state management, form validation, and responsive shopping UI. | [Live](https://ecomerce-five-beta.vercel.app/) \| [Repo](https://github.com/Axcel-Designs/REACT_tasks/tree/master/react_task_04) | React, Redux, Formik-Yup, Tailwind |
+| **E-commerce TS Store** | TypeScript e-commerce app using modern React patterns and Context API for cart state. | [Live](https://ecommerce-project-green-seven.vercel.app/) \| [Repo](https://github.com/Axcel-Designs/ashinityEcommerceProject) | React, TypeScript, Tailwind, Context API |
+| **World Countries Data** | Interactive country data dashboard with search, filter, and REST API-based country info. | [Live](https://axcel-designs.github.io/worldCountriesData/) \| [Repo](https://github.com/Axcel-Designs/worldCountriesData) | HTML, CSS, JavaScript, REST API |
+| **Solar System Explorer** | Animated solar system visualization with planetary data and dynamic weight calculator. | [Live](https://axcel-designs.github.io/solarSystem/) \| [Repo](https://github.com/Axcel-Designs/solarSystem) | HTML, CSS, JavaScript, Animation |
 
 ---
 
@@ -97,16 +94,16 @@ Hi! I'm **ACHA K. EXCEL**
 ### Full Stack Development
 
 - **Frontend:** React, Next.js, TypeScript, Tailwind CSS
-- **Backend:** Node.js, Express.js
-- **Databases:** MongoDB, Mongoose ODM
-- **API Development:** RESTful APIs with Express
+- **Backend:** Node.js, Express.js, Nest.Js
+- **Databases:** MongoDB, Mongoose ODM, PostgresSQL, TypeORM
+- **API Development:** RESTful APIs
 - **Version Control:** Git & GitHub
 
 ### What I Do
 
 ✅ Build responsive and interactive web applications  
 ✅ Design and develop RESTful APIs  
-✅ Model and manage database schemas with Mongoose  
+✅ Model and manage database schemas with Mongoose/TypeORM  
 ✅ Optimize frontend performance and UX  
 ✅ Collaborate on open-source projects  
 
@@ -124,9 +121,8 @@ Hi! I'm **ACHA K. EXCEL**
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=axcel-designs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula" alt="GitHub Stats" height="150"/>
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=Axcel-Designs&theme=tokyonight" height="135"/> -->
-   <!-- <img src="https://streak-stats.demolab.com?user=Axcel-Designs&theme=tokyonight" height="135"/> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=axcel-designs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150"/> -->
+   <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=Axcel-Designs&theme=tokyonight" height="135"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=axcel-designs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150"/>  -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=axcel-designs&locale=en&hide_title=false&layout=compact&card_width=320&theme=dracula&hide_border=false" height="150" alt="Languages"/>
 </p>
 
