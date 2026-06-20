@@ -41,7 +41,9 @@ Hi! I'm **ACHA K. EXCEL**
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=fff)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-800000?style=for-the-badge&logo=mongoose&logoColor=fff)
 
-<!-- ![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff) -->
+![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)
+![TypeORM](https://img.shields.io/badge/-TypeORM-3178C6?style=for-the-badge&logo=typeorm&logoColor=fff)
 
 <!-- <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -59,10 +61,9 @@ Hi! I'm **ACHA K. EXCEL**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwind logo"  />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwind logo" />
   </br>
-</div> 
+</div> -->
 
 <details>
 <summary>More Skills</summary>
@@ -79,20 +80,22 @@ Hi! I'm **ACHA K. EXCEL**
 ## 🌟 Featured Projects
 
  | Project | Description | Links | Technologies |
-|---------|-------------|-------|--------------|
-| **Agriyield+** |web app that empowers farmers, cooperatives, and stakeholders with actionable insights. | [Repo](https://github.com/AgriYieldAshinity/Frontend-web) | TypeScript, Tailwind, React, MongoDB, Backend Integration |
-| **CleanCity+** | a Next.js (React) App Router web app that educates users on waste categories and helps them log, track, and visualize their recycling efforts. | [Repo](https://github.com/Axcel-Designs/CleanCity-Plus) | React, Next.js, Node.js, Local Storage |
+| --------- | ------------- | ------- | -------------- |
+| **VaultPass API** | Authentication, Authorization & Secure API Design with Node.Stack Requirements | [Docs](https://documenter.getpostman.com/view/46204053/2sBXwpNWfA) \| [Repo](https://github.com/Axcel-Designs/BackEnd-Tech/tree/main/project_04_capstone) | Node.js, Express.js, MongoDB + Mongoose, Bcrypt, Morgan |
+| **Agriyield+** | web app that empowers farmers, cooperatives, and stakeholders with actionable insights. | [Live](https://agriyield-web.vercel.app/) \| [Repo](https://github.com/AgriYieldAshinity/Frontend-web) | TypeScript, Tailwind, React, MongoDB, Backend Integration |
+| **CleanCity+** | a Next.js (React) App Router web app that educates users on waste categories and helps them log, track, and visualize their recycling efforts. | [Live](https://cleancity-plus.vercel.app/) \| [Repo](https://github.com/Axcel-Designs/CleanCity-Plus) | React, Next.js, Node.js, Local Storage |
 | **Projects Two** | Mastering Front-End | [Repo](https://github.com/Axcel-Designs/REACT_tasks) | JavaScript, HTML, CSS, Tailwind, React, Next.js, Firebase, Redux, Formik-Yup, React Router DOM |
 | **Projects Three** | Mastering TypeScript | [Repo](https://github.com/Axcel-Designs/typescript) | TypeScript, Tailwind, React Router DOM |
-| **mini Project One** | Leaderboards | [Repo](https://axcel-designs.github.io/leaderboard/) | JavaScript, HTML, CSS |
-| **mini Project Two** | World Countries Data | [Repo](https://github.com/Axcel-Designs/worldCountriesData) | JavaScript, HTML, CSS |
-| **mini Project Three** | Solar System | [Repo](https://github.com/Axcel-Designs/solarSystem) | JavaScript, HTML, CSS |
+| **mini Project One** | Leaderboards | [Live](https://axcel-designs.github.io/leaderboard/) \| [Repo](https://github.com/Axcel-Designs/leaderboard) | JavaScript, HTML, CSS |
+| **mini Project Two** | World Countries Data | [Live](https://axcel-designs.github.io/worldCountriesData/) \| [Repo](https://github.com/Axcel-Designs/worldCountriesData) | JavaScript, HTML, CSS |
+| **mini Project Three** | Solar System | [Live](https://axcel-designs.github.io/solarSystem/) \| [Repo](https://github.com/Axcel-Designs/solarSystem) | JavaScript, HTML, CSS |
 
 ---
 
 ## 💻 Development Skills
 
 ### Full Stack Development
+
 - **Frontend:** React, Next.js, TypeScript, Tailwind CSS
 - **Backend:** Node.js, Express.js
 - **Databases:** MongoDB, Mongoose ODM
@@ -100,6 +103,7 @@ Hi! I'm **ACHA K. EXCEL**
 - **Version Control:** Git & GitHub
 
 ### What I Do
+
 ✅ Build responsive and interactive web applications  
 ✅ Design and develop RESTful APIs  
 ✅ Model and manage database schemas with Mongoose  
@@ -112,7 +116,7 @@ Hi! I'm **ACHA K. EXCEL**
 
 - 🧩 I love solving puzzles and brain teasers.
 - ⚽ Football enthusiast.
-- 🎨 Design is my second language.
+- 🎨 Programming is my second language.
 
 ---
 
@@ -128,7 +132,6 @@ Hi! I'm **ACHA K. EXCEL**
 
 ---
 
-
 ## 📫 Connect With Me
 
 Feel free to check out my links above and connect with me! I'm always open to collaborating on exciting projects.
@@ -139,5 +142,3 @@ Feel free to check out my links above and connect with me! I'm always open to co
   <a href="https://x.com/axceldesigns"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x" alt="x"></a>
   <a href="https://excelportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6e57e0?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 </p>
-
-###
