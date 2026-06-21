@@ -120,6 +120,7 @@ I deliver polished web applications, scalable APIs, and full-stack solutions tha
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=axcel-designs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula" alt="GitHub Stats" height="150"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=Axcel-Designs&theme=tokyonight" height="135"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=axcel-designs&locale=en&hide_title=false&layout=compact&card_width=320&theme=dracula&hide_border=false" height="150" alt="Languages"/>
 </p>
 
